@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: small;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+#map {
+    width: 100%;
+    height: 600px; /* Ajusta la altura según sea necesario */
+    background-color: #eaeaea; /* Color de fondo mientras se carga el mapa */
+    position: relative;
+}
+
+.marker {
+    background-color: red; /* Color del marcador */
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 2px solid white;
+}
+.leaflet-tooltip {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+}
