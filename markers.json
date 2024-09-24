@@ -1,0 +1,137 @@
+[
+    {
+     "id": "id01",
+     "coords": [-33.45313511294116, -70.62892956289883],
+     "sound": "sounds/sound1.mp3",
+     "date\/time": "05\/29\/2024 09:29",
+     "label": "Parche curita",
+     "desc": "Donde se escucha a una señora vendiendo parche curitas al interior de un carro del metro",
+     "img": "PHOTO-2024-09-01-10-17-02.jpg"
+    },
+    {
+     "id": "id02",
+     "coords": [-33.45126786777998, -70.65653303876006],
+     "sound": "sounds/sound2.mp3",
+     "date\/time": "05\/29\/2024 11:12",
+     "label": "Utem",
+     "desc": "Se puede escuchar la música de los alumnos mientras juegan tenis de mesa",
+     "img": "PHOTO-2024-09-01-10-33-01.jpg"
+    },
+    {
+     "id": "id03",
+     "coords": [-33.52322575974406, -70.62529539930391],
+     "sound": "sounds/sound3.mp3",
+     "date\/time": "05\/25\/2024 10:10",
+     "label": "Recolector de basura",
+     "desc": "Se puede percibir el como tiran los desechos dentro del camión",
+     "img": "PHOTO-2024-09-01-10-32-54.jpg"
+    },
+    {
+     "id": "id04",
+     "coords": [-33.40234464447707, -70.58094136142459],
+     "sound": "sounds/sound4.mp3",
+     "date\/time": "05\/30\/2024 13:10",
+     "label": "McDonald",
+     "desc": "Se puede percibir el sonido de personas y las cajas atendiendo",
+     "img": "PHOTO-2024-09-01-10-32-48.jpg"
+    },
+    {
+     "id": "id05",
+     "coords": [-33.54212580442807, -70.63410800026867],
+     "sound": "sounds/sound5.mp3",
+     "date\/time": "05\/25\/2024 10:49",
+     "label": "Avenida Santa Rosa",
+     "desc": "Se puede identificar el gran flujo de vehiculos y el gran ruido ambiental",
+     "img": "PHOTO-2024-09-01-10-32-42.jpg"
+    },
+    {
+     "id": "id06",
+     "coords": [-33.54949592975156, -70.60597620457801],
+     "sound": "sounds/sound6.mp3",
+     "date\/time": "05\/31\/2024 12:48",
+     "label": "Animales de noche",
+     "desc": "Se escuchan los animales como actuan en la noche, especialmente gato y perro",
+     "img": "PHOTO-2024-09-01-10-32-35.jpg"
+    },
+    {
+     "id": "id07",
+     "coords": [-33.45895455115801, -70.57236077208674],
+     "sound": "sounds/sound7.mp3",
+     "date\/time": "05\/28\/2024 14:41",
+     "label": "En la 225",
+     "desc": "Se identifica una conversación entre dos pasajeros de la micro 225",
+     "img": "PHOTO-2024-09-01-10-32-28.jpg"
+    },
+    {
+     "id": "id08",
+     "coords": [-33.417178136644544, -70.55276692941848],
+     "sound": "sounds/sound8.mp3",
+     "date\/time": "05\/21\/2024 14:34",
+     "label": "McDonalds Las Condes",
+     "desc": "Se escucha el ruido que permanece en el mcdonalds desde su segundo piso",
+     "img": "PHOTO-2024-09-01-10-32-21.jpg"
+    },
+    {
+     "id": "id09",
+     "coords": [-33.476041150481215, -70.64930539265887],
+     "sound": "sounds/sound9.mp3",
+     "date\/time": "05\/29\/2024 17:14",
+     "label": "Ruido de personas en persa Bio Bio",
+     "desc": "Se escucha el ruido de personas que trabajan en el persa bio bio y el flujo de gente que transita en el",
+     "img": "PHOTO-2024-09-01-10-32-14.jpg"
+    },
+    {
+     "id": "id10",
+     "coords": [-33.51640919915054, -70.69719733775442],
+     "sound": "sounds/sound10.mp3",
+     "date\/time": "05\/29\/2024 12:40",
+     "label": "Ruido de personas trabajando",
+     "desc": "Se escucha el ruido de personas trabajando, arreglando la calle",
+     "img": "PHOTO-2024-09-01-10-32-05.jpg"
+    },
+    {
+     "id": "id11",
+     "coords": [-33.51721564699998, -70.65869293210584],
+     "sound": "sounds/sound11.mp3",
+     "date\/time": "05\/29\/2024 12:00",
+     "label": "Ruido de Micro",
+     "desc": "Se escucha el ruido de la micro H08",
+     "img": "PHOTO-2024-09-01-10-31-57.jpg"
+    },
+    {
+     "id": "id12",
+     "coords": [-33.442974161053044, -70.645463419235],
+     "sound": "sounds/sound12.mp3",
+     "date\/time": "05\/30\/2024 19:58",
+     "label": "Sala de Espera",
+     "desc": "Sonido ambiente de la sala de espera en integramedica",
+     "img": "PHOTO-2024-09-01-10-31-48.jpg"
+    },
+    {
+     "id": "id13",
+     "coords": [-33.42549205326182, -70.61426250547913],
+     "sound": "sounds/sound13.mp3",
+     "date\/time": "05\/30\/2024 19:42",
+     "label": "Deportistas motivados",
+     "desc": "Reunión de deportistas a las afuera del metro",
+     "img": "PHOTO-2024-09-01-10-31-41.jpg"
+    },
+    {
+     "id": "id14",
+     "coords": [-33.4370381250218, -70.63352797817518],
+     "sound": "sounds/sound14.mp3",
+     "date\/time": "05\/30\/2024 14:25",
+     "label": "20 Pesos",
+     "desc": "Dos personas pidiendo dinero para poder cargar la bip e ir a trabajar",
+     "img": "PHOTO-2024-09-01-10-31-32.jpg"
+    },
+    {
+     "id": "id15",
+     "coords": [-33.40789913276126, -70.54511041028302],
+     "sound": "sounds/sound15.mp3",
+     "date\/time": "05\/30\/2024 13:47",
+     "label": "Arte en Santiago",
+     "desc": "Violinista tocando en la entrada del metro Los Dominicos",
+     "img": "PHOTO-2024-09-01-10-31-24.jpg"
+    }
+   ]
